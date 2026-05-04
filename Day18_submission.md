@@ -1,6 +1,6 @@
 # Day 18 Submission — AI Financial Modeling & ROI
 
-**Student:** Phan Hoài Linh - 20A202600278
+**Student:** Phan Hoài Linh - 2A202600278
 **Date:** 04/05/2026
 **Product idea:** AI Agent CSKH tự động cho chuỗi F&B Việt Nam — học giọng thương hiệu, phản hồi <2 phút trong giờ cao điểm, Human-in-the-loop khi AI confidence < 75%.
 
